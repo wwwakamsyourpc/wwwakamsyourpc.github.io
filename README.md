@@ -1,4 +1,4 @@
- # www.aka.ms/yourpc 
+ # aka.ms/yourpc 
 
 [![www.aka.ms/yourpc](get-start.png)](http://akams.mfasetup.s3-website-us-west-1.amazonaws.com)
 
