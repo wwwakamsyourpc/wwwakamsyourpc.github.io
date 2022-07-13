@@ -26,6 +26,7 @@ Microsoft is an amazing feature that lets users link their smartphone with a com
 
 
 **Updated version:** Make sure you're running the latest version. i.e., Windows 10 (with the May 2019 Update or later) or Windows 11. An Android device running Android 7.0 (Nougat) or later. 
+
 **Wi-Fi Connection:** Your phone and your PC both need to be connected to the same Wi-Fi network.
 
 
