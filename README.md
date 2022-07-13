@@ -12,12 +12,12 @@ Microsoft is an amazing feature that lets users link their smartphone with a com
 
 
 
-**Messages:** Reply to texts with a keyboard or answer calls using the headset already synced to your PC. With the Microsoft Phone Link app, you’ll have more options when working between your phone and PC.
-**Calls:** Answer calls using the headset already synced to your PC. With the Phone Link app, you’ll have more options when working between your phone and PC.
-**Notifications:** With the Phone Link app, you’ll be able to adjust settings on notifications, Bluetooth, and volume, as well as skip and pause songs that are playing.
-**Gallery and OneDrive:** Keep your memories secured across devices. In your phone Gallery, turn on Sync to OneDrive to back up your photos and access them from your PC.
-**Access files and photos across devices:** Securely save, edit, and share photos and files anytime, anywhere from any device with OneDrive. Start with 5 GB of free cloud storage.
-**Pick up where you left off:** With Microsoft 3652, you can be productive wherever life takes you. View, edit, or share Word, Excel, and PowerPoint files from your PC or phone.
+1. **Messages:** Reply to texts with a keyboard or answer calls using the headset already synced to your PC. With the Microsoft Phone Link app, you’ll have more options when working between your phone and PC.
+2. **Calls:** Answer calls using the headset already synced to your PC. With the Phone Link app, you’ll have more options when working between your phone and PC.
+3. **Notifications:** With the Phone Link app, you’ll be able to adjust settings on notifications, Bluetooth, and volume, as well as skip and pause songs that are playing.
+4. **Gallery and OneDrive:** Keep your memories secured across devices. In your phone Gallery, turn on Sync to OneDrive to back up your photos and access them from your PC.
+5. **Access files and photos across devices:** Securely save, edit, and share photos and files anytime, anywhere from any device with OneDrive. Start with 5 GB of free cloud storage.
+6. **Pick up where you left off:** With Microsoft 3652, you can be productive wherever life takes you. View, edit, or share Word, Excel, and PowerPoint files from your PC or phone.
 
 
 
