@@ -1,4 +1,4 @@
- #www.aka.ms/yourpc
+ ## www.aka.ms/yourpc
  
  
 [![www.aka.ms/yourpc](get-start.png)](https://computersolve.com/www-aka-ms-yourpc/)
