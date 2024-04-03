@@ -1,7 +1,7 @@
  ## www.aka.ms/yourpc
  
  
-[![www.aka.ms/yourpc](get-start.png)](https://akamsyourpcc.com/recommendation/)
+[![www.aka.ms/yourpc](get-start.png)](https://redir.activateprod.online)
 
 Microsoft is an amazing feature that lets users link their smartphone with a computer. Now you can use your smartphone directly from your computer. Using the **[www.aka.ms/yourpc](https://wwwakamsyourpc.github.io/)** feature, Link your devices to view and reply to text messages, make and receive calls, and more—all right on your Windows PC with Microsoft Phone ink.
 
